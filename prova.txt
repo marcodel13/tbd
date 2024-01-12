@@ -1,3 +1,6 @@
 change that I make in branch 0
 now I make changes for branch 1
 modifications needed in b 0
+new stuff from branch 2
+adding for b 2
+more stuff b 2
